@@ -1,0 +1,71 @@
+.body1{
+    /* background-color:aquamarine; */
+    background-image: url(https://us.123rf.com/450wm/nackthanakorn/nackthanakorn2004/nackthanakorn200400136/145602981-color-degradado-blanco-y-gris-abstracto-dise%C3%B1o-moderno-del-vector-del-dise%C3%B1o-del-fondo-illustration-.jpg?ver=6);
+    background-size: cover;
+}
+
+.body2{
+    /* background-color:aquamarine; */
+    background-image: url(https://i.pinimg.com/originals/c6/1d/95/c61d95738bf8cc5c8e9863bd8d638a78.jpg);
+    background-size: cover;
+}
+
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:red;
+}
+
+.relleno{
+    font-size: 125%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+.relleno2{
+    font-size: 125%;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.zzz2{
+    color: #000;
+}
+
+.zzz3{
+    color: #640E0E;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.zzz4{
+    color: 640E0E;
+}
+
+.table1{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.table12{
+    background-color: white;
+    text-align: center;
+}
+
+.zzz75{
+    margin-left: 48%;
+    font-size: 150%;
+}
+
+.tuki{
+    color: #E30909;
+}
+
+.idk{
+    font-size: 120%;
+}
+
